@@ -1,7 +1,6 @@
 ## 🌟 Hello, I'm **Abdul Hannan**! 👋 
 
-I’m a **Full-Stack Developer** with **4+ years** of experience crafting scalable web applications with engaging interfaces and robust back-end systems.
-Hi, I’m Abdul Hannan, an experienced Full-Stack Developer with over 4 years of expertise in designing and implementing scalable web applications. I specialize in creating dynamic front-end interfaces using *React.js*, *Angular*, and *Vue.js*, and building robust back-end systems with *Node.js* and *Python (Django, Flask)*. My focus is on delivering high-quality, user-friendly applications with pixel-perfect UI/UX design, ensuring seamless experiences across devices. I’m also skilled in working with *PostgreSQL*, *MySQL*, *MongoDB*, and *Redis*, and building secure RESTful APIs. In every project, my goal is to create reliable, high-performance applications that prioritize security, scalability, and user satisfaction.
+I’m a **Full-Stack Developer** with **4+ years** of expertise in designing and implementing scalable web applications. I specialize in creating dynamic and engaging **front-end interfaces** and building robust **back-end systems**. My focus is on delivering high-quality, user-friendly applications with pixel-perfect **UI/UX design**, ensuring seamless experiences across devices. I strive to create reliable, high-performance applications that prioritize **security**, **scalability**, and user satisfaction in every project I work on.
 
 ---
 
