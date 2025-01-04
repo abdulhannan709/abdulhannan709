@@ -4,6 +4,13 @@ I’m a **Full-Stack Developer** with 4+ years of experience crafting scalable w
 
 ---
 
+### **What I Do**
+- Deliver **scalable** and **reliable** applications.
+- Craft **intuitive user experiences** with responsive, visually appealing designs.
+- Ensure seamless integration between front-end and back-end components.
+
+---
+
 ### **Skills at a Glance**
 
 **Front-end:** React.js, Angular, Vue.js  
@@ -16,22 +23,7 @@ I’m a **Full-Stack Developer** with 4+ years of experience crafting scalable w
 
 ---
 
-### **What I Do**
-- Deliver **scalable** and **reliable** applications.
-- Craft **intuitive user experiences** with responsive, visually appealing designs.
-- Ensure seamless integration between front-end and back-end components.
-
----
-
-### **Projects**
-Check out my work:  
-- **GitHub:** [@abdulhannan709](https://github.com/abdulhannan709)  
-- **Portfolio:** Coming soon!
-
----
-
 ### **Let’s Connect!**
 - **LinkedIn:** [Abdul Hannan](https://linkedin.com/in/abdullhanan709)
-- **Medium:** Coming soon!  
 
 Always open to exciting projects and collaborations—let’s create something amazing!
