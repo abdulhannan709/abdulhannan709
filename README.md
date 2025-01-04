@@ -31,7 +31,7 @@ Check out my work:
 ---
 
 ### **Let’s Connect!**
-- **LinkedIn:** [Abdul Hannan](https://linkedin.com/in/abdulhannan)  
+- **LinkedIn:** [Abdul Hannan](https://linkedin.com/in/abdullhanan709)
 - **Medium:** Coming soon!  
 
 Always open to exciting projects and collaborations—let’s create something amazing!
