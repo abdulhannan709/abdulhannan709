@@ -1,4 +1,4 @@
-## 🌟 Hello, I'm **Abdul Hannan**! 👋 
+## Hello, I'm **Abdul Hannan**! 👋 
 
 I’m a **Full-Stack Developer** with **4+ years** of expertise in designing and implementing scalable web applications. I specialize in creating dynamic and engaging **front-end interfaces** and building robust **back-end systems**. My focus is on delivering high-quality, user-friendly applications with pixel-perfect **UI/UX design**, ensuring seamless experiences across devices. I strive to create reliable, high-performance applications that prioritize **security**, **scalability**, and user satisfaction in every project I work on.
 
