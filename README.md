@@ -4,7 +4,7 @@ I’m a **Full-Stack Developer** with **4+ years** of expertise in designing and
 
 ---
 
-### **Skills at a Glance**
+### **Tools and technologies I use**
 
 **Front-end:** React.js, Angular, Vue.js  
 **Back-end:** Node.js, Python (Django, Flask)
@@ -15,8 +15,6 @@ I’m a **Full-Stack Developer** with **4+ years** of expertise in designing and
 **Version Control:** Git for seamless collaboration
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfiazjan&layout=compact&theme=dark)
-
----
 
 ### **Let’s Connect!**
 - **LinkedIn:** [Abdul Hannan](https://linkedin.com/in/abdullhanan709)
