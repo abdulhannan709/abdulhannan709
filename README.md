@@ -14,6 +14,9 @@ I’m a **Full-Stack Developer** with **4+ years** of expertise in designing and
 **UI/UX:** Intuitive design & pixel-perfect layouts  
 **Version Control:** Git for seamless collaboration
 
+## The Numbers
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfiazjan&layout=compact&theme=dark)
+
 ---
 
 ### **Let’s Connect!**
